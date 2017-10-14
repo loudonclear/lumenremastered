@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 975ea988ac8d1114c99343831dd078b7
+timeCreated: 1506718240
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SadMachine
+  fontNames:
+  - SadMachine
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

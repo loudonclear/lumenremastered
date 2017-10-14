@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fdeb87d0341c0ee4e8c4d2e46e7ecb33
+timeCreated: 1506718241
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: rainyhearts
+  fontNames:
+  - rainyhearts
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

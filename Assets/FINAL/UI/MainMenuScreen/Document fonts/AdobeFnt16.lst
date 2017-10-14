@@ -1,0 +1,317 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:8_bit_1_6
+FamilyName:8_bit_1_6
+StyleName:Regular
+FullName:8_bit_1_6 Regular
+MenuName:8_bit_1_6
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\yuzuquat\OneDrive\Classes\game\MainMenuScreen\Document fonts\8bit16.ttf
+DataFormat:sfntData
+FileLength:12964
+FileModTime:1380217606
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,8_bit_1_6 Regular
+NameArray:0,Win,1,8_bit_1_6
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AlbertusMTStd-Light
+FamilyName:Albertus MT Std
+StyleName:Light
+FullName:Albertus MT Std Light
+MenuName:Albertus MT Std Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\yuzuquat\OneDrive\Classes\game\MainMenuScreen\Document fonts\AlbertusMTStd-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:36980
+FileModTime:1187799156
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:180
+NameArray:0,Mac,4,Albertus MT Std Light
+NameArray:0,Win,1,Albertus MT Std Light
+NameArray:0,Win,16,Albertus MT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTStd-Light
+FamilyName:Avenir LT Std
+StyleName:35 Light
+FullName:Avenir LT Std 35 Light
+MenuName:Avenir LT Std 35 Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\yuzuquat\OneDrive\Classes\game\MainMenuScreen\Document fonts\AvenirLTStd-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28084
+FileModTime:1188242960
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Avenir LT Std 35 Light
+NameArray:0,Win,1,Avenir LT Std 35 Light
+NameArray:0,Win,16,Avenir LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BellGothicStd-Light
+FamilyName:Bell Gothic Std
+StyleName:Light
+FullName:Bell Gothic Std Light
+MenuName:Bell Gothic Std Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\yuzuquat\OneDrive\Classes\game\MainMenuScreen\Document fonts\BellGothicStd-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:34768
+FileModTime:1187799163
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:60
+NameArray:0,Mac,4,Bell Gothic Std Light
+NameArray:0,Win,1,Bell Gothic Std Light
+NameArray:0,Win,16,Bell Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Corbel
+FamilyName:Corbel
+StyleName:Regular
+FullName:Corbel
+MenuName:Corbel
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\yuzuquat\OneDrive\Classes\game\MainMenuScreen\Document fonts\corbel.ttf
+DataFormat:sfntData
+FileLength:260648
+FileModTime:1446185885
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Corbel
+NameArray:0,Win,1,Corbel
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CourierNewPSMT
+FamilyName:Courier New
+StyleName:Regular
+FullName:Courier New
+MenuName:Courier New
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\yuzuquat\OneDrive\Classes\game\MainMenuScreen\Document fonts\cour.ttf
+DataFormat:sfntData
+FileLength:792748
+FileModTime:1446185879
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Courier New
+NameArray:0,Win,1,Courier New
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FuturaStd-Light
+FamilyName:Futura Std
+StyleName:Light
+FullName:Futura Std Light
+MenuName:Futura Std Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\yuzuquat\OneDrive\Classes\game\MainMenuScreen\Document fonts\FuturaStd-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27568
+FileModTime:1187799192
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Futura Std Light
+NameArray:0,Win,1,Futura Std Light
+NameArray:0,Win,16,Futura Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LetterGothicStd
+FamilyName:Letter Gothic Std
+StyleName:Medium
+FullName:Letter Gothic Std Medium
+MenuName:Letter Gothic Std
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\yuzuquat\OneDrive\Classes\game\MainMenuScreen\Document fonts\LetterGothicStd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:34480
+FileModTime:1361549780
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,Letter Gothic Std
+NameArray:0,Mac,4,Letter Gothic Std Medium
+NameArray:0,Win,1,Letter Gothic Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Microsoft-Yi-Baiti
+FamilyName:Microsoft Yi Baiti
+StyleName:Regular
+FullName:Microsoft Yi Baiti
+MenuName:Microsoft Yi Baiti
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\yuzuquat\OneDrive\Classes\game\MainMenuScreen\Document fonts\msyi.ttf
+DataFormat:sfntData
+FileLength:300672
+FileModTime:1446185879
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Microsoft Yi Baiti
+NameArray:0,Win,1,Microsoft Yi Baiti
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PixelArial11Bold
+FamilyName:Pixel Arial 11
+StyleName:Bold
+FullName:Pixel Arial 11 Bold
+MenuName:Pixel Arial 11
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\yuzuquat\OneDrive\Classes\game\MainMenuScreen\Document fonts\PIXEAB_.TTF
+DataFormat:sfntData
+FileLength:57408
+FileModTime:1116349082
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Pixel Arial 11 Bold
+NameArray:0,Win,1,Pixel Arial 11
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:rainyhearts
+FamilyName:rainyhearts
+StyleName:Medium
+FullName:rainyhearts
+MenuName:rainyhearts
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\yuzuquat\OneDrive\Classes\game\MainMenuScreen\Document fonts\rainyhearts.ttf
+DataFormat:sfntData
+FileLength:48784
+FileModTime:1327668448
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,rainyhearts
+NameArray:0,Win,1,rainyhearts
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SadMachine
+FamilyName:SadMachine
+StyleName:Medium
+FullName:SadMachine
+MenuName:SadMachine
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\yuzuquat\OneDrive\Classes\game\MainMenuScreen\Document fonts\SadMachine.ttf
+DataFormat:sfntData
+FileLength:30456
+FileModTime:1453929674
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SadMachine
+NameArray:0,Win,1,SadMachine
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Silkscreen-Expanded
+FamilyName:Silkscreen Expanded
+StyleName:Normal
+FullName:Silkscreen Expanded
+MenuName:Silkscreen Expanded
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\yuzuquat\OneDrive\Classes\game\MainMenuScreen\Document fonts\slkscre.ttf
+DataFormat:sfntData
+FileLength:18444
+FileModTime:1456695396
+WeightClass:400
+WidthClass:7
+AngleClass:0
+NameArray:0,Mac,4,Silkscreen Expanded
+NameArray:0,Win,1,Silkscreen Expanded
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:VisitorTT2BRK
+FamilyName:Visitor TT2 BRK
+StyleName:Regular
+FullName:Visitor TT2 BRK
+MenuName:Visitor TT2 BRK
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\yuzuquat\OneDrive\Classes\game\MainMenuScreen\Document fonts\visitor2.ttf
+DataFormat:sfntData
+FileLength:37388
+FileModTime:1017934368
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Visitor TT2 BRK
+NameArray:0,Win,1,Visitor TT2 BRK
+%EndFont
+
